@@ -1,5 +1,3 @@
-92% of storage used … Without storage, you can't save to Drive, back up to Photos, and use Gmail. Get 100 GB of storage for Ksh 250.00 Ksh 60.00/month for 3 months.
-addnode.c
 #include "monty.h"
 /**
  * addnode - add node to the head stack
